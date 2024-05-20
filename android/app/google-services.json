@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850826417097",
+    "project_id": "moneyssauros",
+    "storage_bucket": "moneyssauros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850826417097:android:32b4823c55155fe799ce18",
+        "android_client_info": {
+          "package_name": "br.com.moneyssauros.moneyssauro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmexgCIf0jEIXThF1MnWFOwiULZNIBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
